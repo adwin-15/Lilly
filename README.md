@@ -3,7 +3,7 @@ The Telegram Most Safest Maintained Userbot using Telethon. This is also complet
 <p align="center">
    
    <a href="https://github.com/adwin-15/Lilly">
-      <img src="https://te.legra.ph/file/8ad848ab4361d2b2eda69.jpg" alt="firex", height="300px",width="300px">
+      <img src="https://te.legra.ph/file/110906b30492d8344a404.jpg" alt="firex", height="300px",width="300px">
    </a>
    <br>
    <b>Lilly UserBot</b><br>
