@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Teameviral/FIREX",
-  "website": "https://github.com/Teameviral/FIREX",
-  "success_url": "https://t.me/FirexUb",
+  "repository": "https://github.com/adwin-15/Lilly",
+  "website": "https://github.com/adwin-15/Lilly",
+  "success_url": "https://t.me/trmoviz",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
