@@ -32,7 +32,7 @@ _setting_bot () {
     eviralPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  FIREX V3.O Cleaning.."
+    echo "  LILLY V3.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $eviralPATH
